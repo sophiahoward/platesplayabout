@@ -4,3 +4,7 @@
 <p>Hello, <?= $this->e($name) ?></p>
 
 
+
+<a href="/Applications/MAMP/htdocs/sophiamaysec/templates/testing.php">Here</a>
+
+
