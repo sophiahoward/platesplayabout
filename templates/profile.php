@@ -1,10 +1,4 @@
-<?php $this->layout('template', ['title' => 'User: ' . $name]) ?>
+<?php $this->layout('template', ['title' => 'User Profile']) ?>
 
-<h1>User Profile</h1>
-<p>Hello, <?= $this->e($name) ?></p>
-
-
-
-<a href="/Applications/MAMP/htdocs/sophiamaysec/templates/testing.php">Here</a>
-
-
+<h1>This is page template User Profile</h1>
+<p>Hello, <?=$this->e($name)?></p>
